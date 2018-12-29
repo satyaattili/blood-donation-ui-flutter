@@ -1,16 +1,6 @@
 # blooddonation
 
-A new Flutter application.
+A Flutter application to showcase the ui desgin in flutter with blood donation concept from dribble by kishore.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+##  Article
+Medium article : https://medium.com/@satya.attili/blood-donation-app-ui-in-the-flutter-38c480f486ee
